@@ -477,9 +477,9 @@ SOFTWARE.
 
 **¿Problemas o preguntas?**
 
-- 🐛 **Reportar bug:** [Issues](https://github.com/tu-usuario/ai_agent_system/issues)
-- 💡 **Sugerencias:** [Discussions](https://github.com/tu-usuario/ai_agent_system/discussions)
-- 📧 **Email:** <tu-email@ejemplo.com>
+- 🐛 **Reportar bug:** [Issues](https://github.com/ColDevFranklin/ai_agent_system/issues)
+- 💡 **Sugerencias:** [Discussions](https://github.com/ColDevFranklin/ai_agent_system/discussions)
+- 📧 **Email:** <franklinnrodriguez83@gmail.com>
 
 ---
 
