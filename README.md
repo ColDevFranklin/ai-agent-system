@@ -430,7 +430,7 @@ self.test_cases.append({
 
 MIT License
 
-Copyright (c) 2024 Franklin Andres Ro.
+Copyright (c) 2025 Franklin Andres Ro.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
