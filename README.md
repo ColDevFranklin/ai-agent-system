@@ -460,12 +460,6 @@ SOFTWARE.
 - [Anthropic Prompt Engineering](https://docs.anthropic.com/claude/docs)
 - [LangChain Agents](https://python.langchain.com/docs/modules/agents/)
 
-### Papers
-
-- [Chain-of-Thought Prompting (2023)](https://arxiv.org/abs/2201.11903)
-- [ReAct: Reasoning + Acting (2023)](https://arxiv.org/abs/2210.03629)
-- [Retrieval-Augmented Generation (2020)](https://arxiv.org/abs/2005.11401)
-
 ### Cursos
 
 - [CS230 Deep Learning - Stanford](https://cs230.stanford.edu/)
